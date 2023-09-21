@@ -4,5 +4,5 @@ En esta carpeta se encuentran todos los archivos presentados en el curso de Inte
 
 - Entregas:
   - Entrega 1. Programación (Aprendiendo python)
- 
- - Proyecto:   
+  - Entrega 2. Jugando con redes neuronales. Tensorflow- Playground
+- Proyecto:   
