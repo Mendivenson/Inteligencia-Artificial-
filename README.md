@@ -6,9 +6,10 @@ En esta carpeta se encuentran todos los archivos presentados en el curso de Inte
   - Entrega 1. Programación (Aprendiendo python)
   - Entrega 2. Jugando con redes neuronales. Tensorflow- Playground
 - Proyecto:   
-  - Entrenamiento de los modelos.
-    - CNN.
-    - VGG16.
-    - InceptionV3.
-    - One-shot learning.
-  - Prueba del modelo one-shot learning.
+  - Entrenamiento de los modelos:
+    - CNN
+    - VGG16
+    - InceptionV3
+    - One-shot learning
+  - Prueba del modelo one-shot learning
+  - Resultados
