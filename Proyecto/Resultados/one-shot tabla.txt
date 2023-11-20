@@ -1,5 +1,0 @@
-Precisión	Pérdida
-Entrenamiento	0.997644	0.150967
-Validación	1.000000	0.153113
-Test	1.000000	0.150237
-Tiempo	NA	8.05
