@@ -1,0 +1,4 @@
+Precisión	Pérdida
+Entrenamiento	0.997024	0.171696
+Validación	1.000000	0.191797
+Test	1.000000	0.170368
