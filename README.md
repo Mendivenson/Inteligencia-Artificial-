@@ -1,6 +1,6 @@
 # Inteligencia Artificial (2023-II)
 
-En esta carpeta se encuentran todos los archivos presentados en el curso de Inteligencia Artificial dictado en la carrera de estadística de la Universidad Nacional de Colombia:
+En esta carpeta se encuentran todos los archivos presentados en el curso de Inteligencia Artificial dictado en la carrera de estadística de la Universidad Nacional de Colombia a cargo del profesor **[Alvaro Mauricio Diaz Montenegro](https://github.com/AprendizajeProfundo/Diplomado-Avanzado)**:
 
 - Entregas:
   - Entrega 1. Programación (Aprendiendo python)
