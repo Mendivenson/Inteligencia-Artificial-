@@ -13,3 +13,7 @@ En esta carpeta se encuentran todos los archivos presentados en el curso de Inte
     - One-shot learning
   - Prueba del modelo one-shot learning
   - Resultados
+  - Presentación en clase
+
+## Notas respecto al proyecto: **Detección de firmas falsas usando redes convolucionales**
+
