@@ -1,4 +1,4 @@
-# Inteligencia Artificial
+# Inteligencia Artificial (2023-II)
 
 En esta carpeta se encuentran todos los archivos presentados en el curso de Inteligencia Artificial dictado en la carrera de estadística de la Universidad Nacional de Colombia:
 
@@ -15,5 +15,17 @@ En esta carpeta se encuentran todos los archivos presentados en el curso de Inte
   - Resultados
   - Presentación en clase
 
-## Notas respecto al proyecto: **Detección de firmas falsas usando redes convolucionales**
+## Notas sobre proyecto: **Detección de firmas falsas usando redes convolucionales**
 
+En el desarrollo del proyecto participaron las siguientes personas:
+
+- Michel Mendivenson Barragán Zabala:
+  - **mail:** (mbarraganz@unal.edu.co)
+  - **Git hub:** (https://github.com/Mendivenson)
+
+- Danna Julieta Ruiz Castiblanco:
+  - **mail:** (druizca@unal.edu.co)
+  - **Git Hub:** (https://github.com/Juls5802)
+
+- Nataly Astrid Quintero Ardila:
+  - **mail:** (nquinteroa@unal.edu.co)
